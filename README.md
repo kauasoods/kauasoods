@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kauasoods
-- 👀 I’m interested in ,   Dsenvolvimento Técnico de Informações e Software
+- 👀 I’m interested in ,   Desenvolvimento Técnico de Informações e Software
 - 🌱 I’m currently learning ...  HTML5, CSS E Javasvript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  kauasoods@gmail.com
